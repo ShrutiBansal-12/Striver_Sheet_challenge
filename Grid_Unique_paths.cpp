@@ -1,4 +1,4 @@
-//-----------------Apprach 1-DP--------------//
+//-----------------Approach 1-DP--------------//
 class Solution {
 public:
     int dp[101][101]{};
@@ -18,7 +18,7 @@ public:
     }
 };
 
-//-----------------Apprach 1-Permutation-------------//
+//-----------------Approach 1-Permutation-------------//
 class Solution {
 public:
     int uniquePaths(int m, int n) {
